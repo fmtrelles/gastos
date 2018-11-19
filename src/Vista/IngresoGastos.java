@@ -51,6 +51,7 @@ public class IngresoGastos extends javax.swing.JInternalFrame {
         cabeceras();
         mostrargastos();
         deudames();
+        //commit
         //((BasicInternalFrameUI) this.getUI()).setNorthPane(null);//Quita los titulos del JinternalFrame
     }
 
